@@ -1,5 +1,5 @@
-# 💫 About Me:
-## About Me<br><br>🔭 **I’m currently working on:** Cybersecurity projects, CTF challenges, and web security research<br><br>👯 **I’m looking to collaborate on:** CTFs, cybersecurity projects, web security, and open-source projects<br><br>🤝 **I’m looking for help with:** Improving my penetration testing skills and exploring advanced web application security<br><br>🌱 **I’m currently learning:** Ethical hacking, penetration testing, Bug Bounty, reverse engineering, digital forensics, and cloud security<br><br>💬 **Ask me about:** CTFs, Kali Linux, web security, ethical hacking, Python, and cybersecurity<br><br>⚡ **Fun fact:** I enjoy turning vulnerabilities into flags 🏴‍☠️ and learning something new from every CTF I participate in<br>
+## 💫 About Me:
+### About Me<br><br>🔭 **I’m currently working on:** Cybersecurity projects, CTF challenges, and web security research<br><br>👯 **I’m looking to collaborate on:** CTFs, cybersecurity projects, web security, and open-source projects<br><br>🤝 **I’m looking for help with:** Improving my penetration testing skills and exploring advanced web application security<br><br>🌱 **I’m currently learning:** Ethical hacking, penetration testing, Bug Bounty, reverse engineering, digital forensics, and cloud security<br><br>💬 **Ask me about:** CTFs, Kali Linux, web security, ethical hacking, Python, and cybersecurity<br><br>⚡ **Fun fact:** I enjoy turning vulnerabilities into flags 🏴‍☠️ and learning something new from every CTF I participate in<br>
 
 
 ## 🌐 Socials:
@@ -11,6 +11,3 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Adhiragul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Adhiragul&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
